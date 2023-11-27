@@ -6,5 +6,6 @@ I'm from Brazil, I have 24 years old and I'm studying Game Developer at FIAP.
 - ⚡ Fun fact: The Legend Of Zelda A Link To The Past is my favorite game. 
 
 Skills
+[![](https://custom-icon-badges.demolab.com/badge/Autodesk-Maya-39a5cc.svg?logo=autodesk-maya&style=fot-the-badge)](https://www.autodesk.com.br/products/maya/overview?term=1-YEAR&tab=subscription)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DvoraGames&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
