@@ -14,7 +14,7 @@ Skills
 
 <!-- Softwares Badges -->
 <div class="Softwares">
-  <img src="https://img.shields.io/badge/Unity-595959?e&logo=unity&logoColor=white&&labelColor=252525&style=for-the-badg" height=25px>
+  <img src="https://img.shields.io/badge/Unity-595959?logo=unity&logoColor=white&&labelColor=252525&style=for-the-badg" height=25px>
   <img src="https://custom-icon-badges.demolab.com/badge/Maya-39a5cc?logo=autodesk-maya&labelColor=37515B&style=flat" height=25px>
   <img src="https://custom-icon-badges.demolab.com/badge/Fusion-FF6B00.svg?logo=fusion-360&labelColor=5A361E&style=flat" height=25px>
 </div>
