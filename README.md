@@ -12,8 +12,8 @@ I'm from Brazil, I have 24 years old and I'm studying Game Developer at FIAP.
 
 Skills
 
-<!-- Softwares Badges -->
-<div class="Softwares">
+<!-- Softwares Icons -->
+<div>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Light.svg" />
     <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Dark.svg" width=50px>
@@ -27,8 +27,10 @@ Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DvoraGames&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Snake Game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DvoraGames/dvoragames/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DvoraGames/dvoragames/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</div>
