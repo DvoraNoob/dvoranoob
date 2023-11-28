@@ -18,9 +18,8 @@ Skills
   <img src="https://custom-icon-badges.demolab.com/badge/Maya-39a5cc?logo=autodesk-maya&labelColor=37515B&style=flat" height=25px>
   <img src="https://custom-icon-badges.demolab.com/badge/Fusion-FF6B00.svg?logo=fusion-360&labelColor=5A361E&style=flat" height=25px>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Light.svg" />
-    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/" width=50px>
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360.svg" width=50px>
   </picture>
 </div>
 
