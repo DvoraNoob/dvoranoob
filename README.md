@@ -19,7 +19,7 @@ Skills
   <img src="https://custom-icon-badges.demolab.com/badge/Fusion-FF6B00.svg?logo=fusion-360&labelColor=5A361E&style=flat" height=25px>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Light.svg" />
-    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360.svg" width=50px>
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Dark.svg" width=50px>
   </picture>
 </div>
 
@@ -27,6 +27,5 @@ Skills
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DvoraGames/dvoragames/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
