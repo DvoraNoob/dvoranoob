@@ -14,14 +14,14 @@ Skills
 
 <!-- Softwares Icons -->
 <div>
-  <picture>
+  <a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription"><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Light.svg" />
     <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Dark.svg" width=50px>
-  </picture>
-  <picture>
+  </picture></a>
+  <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription"><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Maya-Light.svg" />
     <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Maya-Dark.svg" width=50px>
-  </picture>
+  </picture></a>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DvoraGames&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
