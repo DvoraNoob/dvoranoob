@@ -3,28 +3,53 @@
 
 <!-- About Me Title -->
 <h3> About Me </h3>
-<!-- About Me Title -->
-I'm from Brazil, I have 24 years old and I'm studying Game Developer at FIAP.
+
+<!-- About Me Text -->
+<p> I'm from Brazil, I have 24 years old and I'm studying Game Developer at FIAP. </p>
 
 - 🌱 I’m currently learning Git and C# 
 - 🤔 I’m looking for help with everything I don't know about Game Dev 
 - ⚡ Fun fact: The Legend Of Zelda A Link To The Past is my favorite game. 
 
-Skills
+<h3> Skills </h3>
 
+<h4> Code Languages </h4>
+<div>
+  <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" width=50px>
+  </picture></a>&nbsp;
+</div>
+
+<h4> Softwares </h4>
 <!-- Softwares Icons -->
 <div>
+  <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Photoshop.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Photoshop.svg" width=50px>
+  </picture></a>&nbsp;
+  <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Illustrator.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Illustrator.svg" width=50px>
+  </picture></a>&nbsp;
   <a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription"><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Light.svg" />
     <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Dark.svg" width=50px>
-  </picture></a>
+  </picture></a>&nbsp;
   <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription"><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Maya-Light.svg" />
     <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Maya-Dark.svg" width=50px>
-  </picture></a>
+  </picture></a>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DvoraGames&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<div>
+  <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Maya-Light.svg" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvoraGames&layout=compact&theme=dark#gh-dark-mode-only">
+  </picture></a>
+</div>
 
 <!-- Snake Game -->
 <div align="center">
