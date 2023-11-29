@@ -19,8 +19,8 @@ Skills
     <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Dark.svg" width=50px>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Light.svg" />
-    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Fusion360-Light.svg" width=50px>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Maya-Light.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Maya-Dark.svg" width=50px>
   </picture>
 </div>
 
