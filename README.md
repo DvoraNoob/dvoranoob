@@ -13,7 +13,19 @@
 
 <h3> Skills </h3>
 
-<h4> Code Languages </h4>
+<h4> Engines </h4>
+<div>
+  <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Light.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Dark.svg" width=50px>
+  </picture></a>&nbsp;
+  <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/GameMakerStudio.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/GameMakerStudio.svg" width=50px>
+  </picture></a>&nbsp;
+</div>
+
+<h4> Languages & Frameworks </h4>
 <div>
   <a><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/C.svg" />
@@ -31,7 +43,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Python-Light.svg" />
     <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Python-Dark.svg" width=50px>
   </picture></a>&nbsp;
-
   <a><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/HTML.svg" />
     <img src="https://github.com/DvoraGames/dvoragames/blob/icons/HTML.svg" width=50px>
@@ -49,8 +60,7 @@
   </picture></a>&nbsp;
 </div>
 
-<h4> Softwares </h4>
-<!-- Softwares Icons -->
+<h4> Tools </h4>
 <div>
   <a><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Photoshop.svg" />
