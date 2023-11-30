@@ -13,12 +13,13 @@
 
 <h2> Skills </h2>
 
-<div>
-  <h4> Engines </h4>
+<!-- Engines Section -->
+<div align="center">
+  <h3> Engines </h3>
   <div>
     <a><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Light.svg" />
-      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Dark.svg" width=50px>
+      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Dark.svg" alt="Unity Engine" width=50px>
     </picture></a>&nbsp;
     <a><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/GameMakerStudio.svg" />
@@ -27,8 +28,9 @@
   </div>
 </div>
 
-<div>
-  <h4> Languages & Frameworks </h4>
+<!-- Languages Section -->
+<div align="center">
+  <h3> Languages & Frameworks </h3>
   <div>
     <a><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/C.svg" />
@@ -64,7 +66,8 @@
   </div>
 </div>
 
-<div>
+<!-- Tools Section -->
+<div align="center">
   <h4> Tools </h4>
   <div>
     <a><picture>
