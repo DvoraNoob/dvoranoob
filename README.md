@@ -17,13 +17,13 @@
 <div align="center">
   <h3> Engines </h3>
   <div>
-    <a><picture>
+    <a href="https://unity.com/"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Light.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Dark.svg" alt="Unity Engine" width=50px>
     </picture></a>&nbsp;
-    <a><picture>
+    <a href="https://gamemaker.io/"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/GameMakerStudio.svg" />
-      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/GameMakerStudio.svg" width=50px>
+      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/GameMakerStudio.svg" alt="GameMaker" width=50px>
     </picture></a>&nbsp;
   </div>
 </div>
