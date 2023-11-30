@@ -16,8 +16,36 @@
 <h4> Code Languages </h4>
 <div>
   <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/C.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/C.svg" width=50px>
+  </picture></a>&nbsp;
+  <a><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" />
     <img src="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" width=50px>
+  </picture></a>&nbsp;
+  <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Java-Light.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Java-Dark.svg" width=50px>
+  </picture></a>&nbsp;
+  <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Python-Light.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Python-Dark.svg" width=50px>
+  </picture></a>&nbsp;
+
+  <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/HTML.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/HTML.svg" width=50px>
+  </picture></a>&nbsp;
+  <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/CSS.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/CSS.svg" width=50px>
+  </picture></a>&nbsp;
+  <a><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/JavaScript.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/JavaScript.svg" width=50px>
+  </picture></a>&nbsp;
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Bootstrap.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Bootstrap.svg" width=50px>
   </picture></a>&nbsp;
 </div>
 
