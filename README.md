@@ -68,7 +68,7 @@
 
 <!-- Tools Section -->
 <div align="center">
-  <h4> Tools </h4>
+  <h3> Tools </h3>
   <div>
     <a><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Photoshop.svg" />
