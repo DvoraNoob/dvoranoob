@@ -32,35 +32,32 @@
 <div align="center">
   <h3> Languages & Frameworks </h3>
   <div>
-    <a><picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/C.svg" />
-      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/C.svg" width=50px>
-    </picture></a>&nbsp;
-    <a><picture>
+    <a href="https://learn.microsoft.comr/dotnet/csharp/"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" width=50px>
     </picture></a>&nbsp;
-    <a><picture>
+    <a href="https://dev.java/"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Java-Light.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Java-Dark.svg" width=50px>
     </picture></a>&nbsp;
-    <a><picture>
+    <a href="https://www.python.org/"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Python-Light.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Python-Dark.svg" width=50px>
     </picture></a>&nbsp;
-    <a><picture>
+    <a href="https://developer.mozilla.org/docs/Web/HTML"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/HTML.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/HTML.svg" width=50px>
     </picture></a>&nbsp;
-    <a><picture>
+    <a href="https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/CSS_basics"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/CSS.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/CSS.svg" width=50px>
     </picture></a>&nbsp;
-    <a><picture>
+    <a href="https://developer.mozilla.org/docs/web/javascript/guide/introduction"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/JavaScript.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/JavaScript.svg" width=50px>
     </picture></a>&nbsp;
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Bootstrap.svg" />
+    <a href="https://getbootstrap.com/"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Bootstrap.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Bootstrap.svg" width=50px>
     </picture></a>&nbsp;
   </div>
