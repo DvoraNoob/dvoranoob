@@ -15,7 +15,9 @@
 
 <!-- Engines Section -->
 <div align="center">
+  <!-- Engines Title -->
   <h3> Engines </h3>
+  <!-- Engiges Icons -->
   <div>
     <a href="https://unity.com/"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Light.svg" />
@@ -30,7 +32,9 @@
 
 <!-- Languages Section -->
 <div align="center">
+  <!-- Languages Title -->
   <h3> Languages & Frameworks </h3>
+  <!-- Languages Icons -->
   <div>
     <a href="https://learn.microsoft.comr/dotnet/csharp/"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" />
@@ -65,8 +69,18 @@
 
 <!-- Tools Section -->
 <div align="center">
+  <!-- Tools Title -->
   <h3> Tools </h3>
+  <!-- Tools Icons -->
   <div>
+    <a><picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Github-Light.svg" />
+      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Github-Dark.svg" width=50px>
+    </picture></a>&nbsp;
+    <a><picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Git.svg" />
+      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Git.svg" width=50px>
+    </picture></a>&nbsp;
     <a><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Photoshop.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Photoshop.svg" width=50px>
