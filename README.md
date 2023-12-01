@@ -79,6 +79,10 @@
   
   <!-- Tools Icons -->
   <div>
+    <a href="https://code.visualstudio.com/"><picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/VSCode-Light.svg" />
+      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/VSCode-Dark.svg" alt="Github" width=50px>
+    </picture></a>&nbsp;
     <a href="https://github.com/"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Github-Light.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Github-Dark.svg" alt="Github" width=50px>
