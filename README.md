@@ -11,6 +11,8 @@
 - 🤔 I’m looking for help with everything I don't know about Game Dev 
 - ⚡ Fun fact: The Legend Of Zelda A Link To The Past is my favorite game.
 
+![](https://now-playing-cards.vercel.app/now-playing/q?uid=)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12155751302&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12155751302&redirect=true)
 
 <h2> Skills </h2>
