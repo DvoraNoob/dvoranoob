@@ -48,10 +48,6 @@
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Java-Light.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Java-Dark.svg" alt="Java" width=50px>
     </picture></a>&nbsp;
-    <a href="https://www.python.org/"><picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Python-Light.svg" />
-      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Python-Dark.svg" alt="Python" width=50px>
-    </picture></a>&nbsp;
     <a href="https://developer.mozilla.org/docs/Web/HTML"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/HTML.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/HTML.svg" alt="HTML" width=50px>
