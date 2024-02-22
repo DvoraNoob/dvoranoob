@@ -11,9 +11,7 @@
 - 🤔 I’m looking for help with everything I don't know about Game Dev 
 - ⚡ Fun fact: The Legend Of Zelda A Link To The Past is my favorite game.
 
-![](https://now-playing-cards.vercel.app/now-playing/q?uid=)
-
-[![]([https://spotify-github-profile.vercel.app/api/view?uid=12155751302&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12155751302&redirect=true](https://nowplayi.ng/miniplayer.php?refreshToken=AQAcZYXNom-nYjOEyF2-yAGxlg797BJTUPS8mYf_9j9B041G3OXAB6SDrQvav6N7DOeFMwnUOPyVHmuHu05eMW5Ats4-cCUeuOBrrwzSEAHzbEfSik_ssjUfOvA-aw47g90&showAlbum=true&showArtwork=true&showProgress=true&showPause=true&transparentBackground=false))
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12155751302&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12155751302&redirect=true)
 
 <h2> Skills </h2>
 
