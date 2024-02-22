@@ -15,7 +15,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12155751302&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12155751302&redirect=true)
 
-![](https://now-playing-cards.vercel.app/now-playing/q?uid=12155751302)
+![spotify-github-profile](https://now-playing-cards.vercel.app/now-playing/q?uid=bwygdf3k5na8cdy8ek3ofoteq&size=large&theme=colorblock&bar=waves)
 
 <h2> Skills </h2>
 
