@@ -5,7 +5,7 @@
 <h2> About Me </h2>
 
 <!-- About Me Text -->
-<p> I'm from Brazil, I have 24 years old and I'm studying Game Developer at FIAP. </p>
+<p> I'm from Brazil, I have 25 years old and I'm studying Game Developer at FIAP. </p>
 
 - 🌱 I’m currently learning Git and C# 
 - 🤔 I’m looking for help with everything I don't know about Game Dev 
