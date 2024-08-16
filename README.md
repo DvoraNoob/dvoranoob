@@ -8,10 +8,8 @@
 <p> I'm from Brazil, I have 25 years old and I'm studying Game Developer at FIAP. </p>
 
 - 🌱 I’m currently learning Git and C# 
-- 🤔 I’m looking for help with everything I don't know about Game Dev 
+- 🤔 I’m looking for help for everything about Game Dev 
 - ⚡ Fun fact: The Legend Of Zelda A Link To The Past is my favorite game.
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12155751302&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12155751302&redirect=true)
 
 <h2> Skills </h2>
 
