@@ -5,9 +5,9 @@
 <h2> About Me </h2>
 
 <!-- About Me Text -->
-<p> I'm from Brazil, I have 25 years old and I'm studying Game Developer at FIAP. </p>
+<p> I'm from Brazil, I'm 26 years old, and I graduated in Game Development at FIAP. </p>
 
-- 🌱 I’m currently learning Git and C# 
+- 🌱 I’m currently learning C++ 
 - 🤔 I’m looking for help for everything about Game Dev 
 - ⚡ Fun fact: The Legend Of Zelda A Link To The Past is my favorite game.
 
@@ -21,6 +21,10 @@
 
   <!-- Engiges Icons -->
   <div>
+    <a href="https://www.unrealengine.com/"><picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/UnrealEngine.svg" />
+      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/UnrealEngine.svg" alt="Unreal Engine" width=50px>
+    </picture></a>&nbsp;
     <a href="https://unity.com/"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Light.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Dark.svg" alt="Unity Engine" width=50px>
@@ -40,6 +44,10 @@
   
   <!-- Languages Icons -->
   <div>
+    <a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170"><picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/CPP.svg" />
+      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/CPP.svg" alt="C++" width=50px>
+    </picture></a>&nbsp;
     <a href="https://learn.microsoft.comr/dotnet/csharp/"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" alt="C# (C Sharp)" width=50px>
