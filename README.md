@@ -52,10 +52,6 @@
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" alt="C# (C Sharp)" width=50px>
     </picture></a>&nbsp;
-    <a href="https://dev.java/"><picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Java-Light.svg" />
-      <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Java-Dark.svg" alt="Java" width=50px>
-    </picture></a>&nbsp;
     <a href="https://developer.mozilla.org/docs/Web/HTML"><picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/HTML.svg" />
       <img src="https://github.com/DvoraGames/dvoragames/blob/icons/HTML.svg" alt="HTML" width=50px>
